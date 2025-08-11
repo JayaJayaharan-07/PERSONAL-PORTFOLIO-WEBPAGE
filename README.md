@@ -44,4 +44,4 @@ A RESPONSIVE SINGLE-PAGE PORTFOLIO WITH WORKING NAVIGATION THAT ADAPTS TO ALL SC
 
 *OUTPUT*
 
-
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/76b8218c-1c4a-4fd9-84f1-c953f53b6f79" />
